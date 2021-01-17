@@ -6,7 +6,6 @@
     font-family: ubuntu , sans-serif;
 }
 
-
 .contact-form{
     background: #fff;
     margin-top: 10%;
@@ -131,13 +130,6 @@
     }
 }
 
-@media screen and (min-width:1024) {
-  .o{
-    width: 5%;
-    height: 5%;
-  }
-}
-
 .row5 {
     display: -ms-flexbox; 
     display: flex;
@@ -206,3 +198,4 @@
         transform: translate(-50%, -50%);
         text-align: center;
       }
+
